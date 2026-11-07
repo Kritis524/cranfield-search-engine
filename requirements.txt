@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+rank_bm25
+nltk
+matplotlib
+streamlit
+sentence-transformers
