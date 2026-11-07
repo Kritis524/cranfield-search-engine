@@ -1,5 +1,7 @@
 # Cranfield Search Engine
 
+**Live demo:** https://cranfield-search-kritis.streamlit.app/
+
 An information retrieval system over the Cranfield collection (1,400 aeronautical abstracts, 225 queries with human relevance judgments). It implements and compares four ranking methods, and includes an interactive search interface for trying them side by side.
 
 ## Ranking methods
